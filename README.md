@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @smailliwniloc (Colin Williams)
+- 👀 I’m interested in Mathematics, Optimization, and Game Development
+- 🌱 I’m currently learning Python game development with Pygame
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: smailliwniloc@gmail.com subject line including "GitHub"
